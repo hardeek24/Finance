@@ -4,6 +4,7 @@ This project is designed to scrape, process, and analyze web content, delivering
 
 ## Components Overview
 
+
 ### `chunker.py`
 
 This script processes HTML files from a specified directory, extracting and chunking textual content. It uses BeautifulSoup for HTML parsing and the `tiktoken` tokenizer for splitting text into manageable segments.
